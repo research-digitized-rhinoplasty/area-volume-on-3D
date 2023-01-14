@@ -44,7 +44,6 @@ function findAreaOrVolume(mId, isVolume){
     var feature_center = {x: (feature_points[0].x+middle_point.x)/2, y: (feature_points[0].y+middle_point.y)/2, z: (feature_points[0].z+middle_point.z)/2};
 
     //Iterate over all the triangles of the face
-    //I don't think we're storing the face mesh so I made a function to find it
     var realFace = getFaceMesh();
     var points = realFace.geometry.getAttribute('position').array;
 
