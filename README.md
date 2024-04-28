@@ -14,5 +14,5 @@ We have tested these algorithms to calculate area and volume of regions on 3D fa
 
 This study has been published in IEEE Access, please use the following to cite:
 
-O. Topsakal, P. Sawyer, T. C. Akinci and M. M. Celikoyar, "Algorithms to Measure Area and Volume on 3D Face Models for Facial Surgeries," in IEEE Access, vol. 11, pp. 39577-39585, 2023, doi: 10.1109/ACCESS.2023.3268174.
+O. Topsakal, P. Sawyer, T. C. Akinci and M. M. Celikoyar, "Algorithms to Measure Area and Volume on 3D Face Models for Facial Surgeries," in IEEE Access, vol. 11, pp. 39577-39585, 2023, [doi: 10.1109/ACCESS.2023.3268174](https://ieeexplore.ieee.org/document/10103868).
 
