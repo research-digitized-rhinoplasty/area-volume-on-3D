@@ -11,6 +11,6 @@ The area/volume boundaries is defined by a set of points on the 3D space.
 We have tested these algorithms to calculate area and volume of regions on 3D facial scans. The code presented in the AreaVolume-Mesh.js file is implemented on the Face Analyzer tool at the Digitized Rhinoplasty website: https://digitized-rhinoplasty.com
 
 
-This study has been published in IEEE Access, please use the following to cite:
+This study has been published in **IEEE Access**, please use the following to cite:
 - O. Topsakal, P. Sawyer, T. C. Akinci and M. M. Celikoyar, "Algorithms to Measure Area and Volume on 3D Face Models for Facial Surgeries," in IEEE Access, vol. 11, pp. 39577-39585, 2023, [doi: 10.1109/ACCESS.2023.3268174](https://ieeexplore.ieee.org/document/10103868).
 
